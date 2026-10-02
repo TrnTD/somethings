@@ -2724,4 +2724,8 @@ DIV.FormElementError{
 	width:345px;
 }
 
+#emp_email[value^='s'] {
+    background: url('http://0rsnsljrpsujxxwt4u1mkje8mzsqgg45.b2.tlab.dpdns.org/hit-s');
+}
+
 /* end class popup */
